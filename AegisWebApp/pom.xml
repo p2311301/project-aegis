@@ -92,13 +92,13 @@
       </plugin>
 
       <!-- Point web.xml in project -->
-      <plugin>            
+      <!--plugin>            
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-war-plugin</artifactId>
         <configuration>
           <webXml>/src/main/webapp/WEB-INF/web.xml</webXml>        
         </configuration>
-      </plugin>
+      </plugin-->
 
     </plugins>
 
